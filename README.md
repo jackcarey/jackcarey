@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jack.
 
-You can find me online at [jackcarey.co.uk](https://jackcarey.co.uk/), or check out my public code below.
+You can find me online at [jackcarey.co.uk](https://jackcarey.co.uk/), or check out my code below.
 
 <!--
 **jackcarey/jackcarey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
