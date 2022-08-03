@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Jack.
 
-You can check out my code below, but my best content is kept up to date on [jackcarey.co.uk](https://jackcarey.co.uk/).
+#### You can check out some of my code below, but my best content is kept up to date on my website:
+
+# [jackcarey.co.uk](https://jackcarey.co.uk/)
 
 <!--
 **jackcarey/jackcarey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
