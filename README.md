@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jack.
+### Hello 👋
 
 #### You can check out some of my code below, but my best content is kept up to date on my website:
 
