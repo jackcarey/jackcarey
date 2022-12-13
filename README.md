@@ -4,6 +4,8 @@
 
 # [jackcarey.co.uk](https://jackcarey.co.uk/)
 
+<!-- <img src="https://github-readme-stats-deryeger.vercel.app/api/top-langs/?username=jackcarey&layout=compact&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&bg_color=0D1117&show_icons=true&langs_count=10&cache_seconds=86400&exclude_repo=" alt="Top Languages" align="left"> -->
+
 <!--
 **jackcarey/jackcarey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
