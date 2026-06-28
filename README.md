@@ -1,3 +1,3 @@
-#### You'll see a subset of my code here. My best content is up to date on my website:
+#### Only some of my code is public here. My best content is on my website:
 
 # [jackcarey.co.uk](https://jackcarey.co.uk/)
